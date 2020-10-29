@@ -22,6 +22,14 @@
           <p>Headquarted in Nairobi, Kenya, we have substantial operating capacity, powered by a team of highly professional staff with a combined experience of over 40 years in                the industry
           </p>
         </div>
+      <div class="Container">
+        <div class="flex">
+          <h3>Our Services</h3>
+          <img src="" alt="">
+        </div>
       </div>
+          
+      </div>
+  
   </body>
 </html>
