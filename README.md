@@ -4,17 +4,16 @@
     <title>Jecshac</title>
   </head>
   <body>
-    <div class="container header">
-      <h1> Jecshac Enterprises</h1>
+    <div class="container-head">
+        <h1> Jecshac Enterprises</h1>
+        <div class="topnav">
+          <a href="#"> Home</a>
+          <a href="#">About</a>
+          <a href="#">Services</a>
+          <a href="#">Products</a>
+        </div>
     </div>
-    <div class="container-nav">
-      <div class="topnav">
-        <a href="#"> Home</a>
-        <a href="#">About</a>
-        <a href="#">Services</a>
-      </div>
-    </div>
-      <div class="Container">
+      <div class="Container-middle">
         <div class="About">
           <h1> About Jecshach</h1>
           <img src="freight.png" alt="Freight1" 
@@ -22,6 +21,15 @@
           <p>Headquarted in Nairobi, Kenya, we have substantial operating capacity, powered by a team of highly professional staff with a combined experience of over 40 years in                the industry
           </p>
         </div>
+        <div class= "services">
+          <div class="fa fa-home">
+            <h2>Our Services</h2>
+            <table>
+              <tr><th>Service</th><th>Charges</th></tr>
+              <tr><td>Freight Forwarding</td><td>13,000 + VAT</td><td>Easy Pay</td></tr>
+            </table>
+          </div>
+    </div>
       </div>
   </body>
 </html>
