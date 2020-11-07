@@ -4,7 +4,8 @@
     <title>Jecshac</title>
   </head>
   <body>
-    <div class="container-head">
+    <div class="container">
+      <div class="header">
         <h1> Jecshac Enterprises</h1>
         <div class="topnav">
           <a href="#"> Home</a>
@@ -12,8 +13,12 @@
           <a href="#">Services</a>
           <a href="#">Products</a>
         </div>
-    </div>
-      <div class="Container-middle">
+      </div>
+      <div class="container side">
+        <h2>Top News</h2>
+        <video src="https://youtu.be/V0PcwSLNi4M" autoplay controls>Our Services</video>
+      </div>
+      <div class="Container middle">
         <div class="About">
           <h1> About Jecshach</h1>
           <img src="freight.png" alt="Freight1" 
