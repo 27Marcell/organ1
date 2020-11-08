@@ -8,13 +8,13 @@
       margim:0;
       padding: 0 0 2rem 0;
       }
-      .container .side{
+      .container side{
       float:left;
       width: 30%;
       height: 100%;
       background-color: aqua;
       }
-      .container .middle{
+      .container middle{
       width:70%;
       height:100%;
       background-color:aqua;
