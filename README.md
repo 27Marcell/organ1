@@ -4,17 +4,22 @@
     <title>Jecshac Enterprises</title>
     <style type="text/css">
       .topnav{
+      display:inline-block;
+      float:right;
       text-decoration: none;
       margim:0;
       padding: 0 0 2rem 0;
       }
       .container side{
+      display:block;
       float:left;
       width: 30%;
       height: 100%;
       background-color: aqua;
       }
       .container middle{
+      display: block;
+      float:center;
       width:70%;
       height:100%;
       background-color:aqua;
