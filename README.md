@@ -8,15 +8,19 @@
       <div class="header">
         <h1> Jecshac Enterprises</h1>
         <div class="topnav">
-          <a href="#"> Home</a>
-          <a href="#">About</a>
-          <a href="#">Services</a>
-          <a href="#">Products</a>
+          <ul>
+            <li><a href="#"> Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Products</a></li>
+            <li>< a href="#">News</a></li>
+          </ul>
         </div>
       </div>
       <div class="container side">
         <h2>Top News</h2>
-        <iframe width="101px" height="80px"> src="https://youtu.be/V0PcwSLNi4M"  </iframe>
+        <video src="https://youtu.be/V0PcwSLNi4M" width="100%" height="80%"> 
+          <p>You can get customised containers to suit your business needs as a cheaper and more portable alternative to building entire buildings</p>
       </div>
       <div class="Container middle">
         <div class="About">
