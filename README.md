@@ -2,6 +2,24 @@
 <html>
   <head>
     <title>Jecshac Enterprises</title>
+    <style type="text/css">
+      .topnav{
+      text-decoration: none;
+      margim:0;
+      padding: 0 0 2rem 0;
+      }
+      .container side{
+      float:left;
+      width: 30%;
+      height: 100%;
+      background-color: aqua;
+      }
+      .container middle{
+      width:70%;
+      height:100%;
+      background-color:aqua;
+      }
+    </style>
   </head>
   <body>
     <div class="container">
@@ -30,7 +48,7 @@
           <tr><td>Warehousing></td><td> 200/= per Sqft</td><td>Storage & Distribution</td></tr>
          </table>
       </div>
-      <div class="Container middle">
+      <div class="container middle">
         <div class="About">
           <h1> About Jecshach</h1>
           <img src="freight.png" alt="Freight1" 
