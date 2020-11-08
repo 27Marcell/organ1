@@ -43,7 +43,7 @@
       <div class="container side">
         <h2>Top News</h2>
         <video src="https://youtu.be/V0PcwSLNi4M" width="100%" height="80%"> 
-          <p>You can get <em>customised containers</em> to suit your business needs as a cheaper and more portable alternative to building entire buildings</p>
+          <p>You can get <strong><em>customised containers</em></strong> to suit your business needs as a cheaper and more portable alternative to building entire buildings</p>
         <table>
           <h2>Our Serices </h2>
           <tr><th>Service</th><th>Average Charges</th></tr>
