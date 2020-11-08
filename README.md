@@ -22,11 +22,12 @@
         <video src="https://youtu.be/V0PcwSLNi4M" width="100%" height="80%"> 
         <p>You can get customised containers to suit your business needs as a cheaper and more portable alternative to building entire buildings</p>
         <table>
-          <tr><th>Service</th><th>Charges</th></tr>
+          <h2>Our Serices </h2>
+          <tr><th>Service</th><th>Average Charges</th></tr>
           <tr><td>Freight Forwarding</td><td>13,000/= + VAT</td><td>Easy Pay</td></tr>
-          <tr><td>Courier Services></td><td> 200/=</td></tr>
-          <tr><td>Sales & Marketing></td><td> 4,500/=</td></tr>
-          <tr><td>Warehousing></td><td> 200/= per Sqft</td></tr>
+          <tr><td>Courier Services></td><td> 200/=</td><td>Regional, International & Corporate</td></tr>
+          <tr><td>Sales & Marketing></td><td> 4,500/=</td><td>Digital Marketing</td></tr>
+          <tr><td>Warehousing></td><td> 200/= per Sqft</td><td>Storage & Distribution</td></tr>
          </table>
       </div>
       <div class="Container middle">
@@ -40,11 +41,7 @@
         <div class= "services">
           <div class="fa fa-home">
             <h2>Our Services</h2>
-            <table>
-              <tr><th>Service</th><th>Charges</th></tr>
-              <tr><td>Freight Forwarding</td><td>13,000/= + VAT</td><td>Easy Pay</td></tr>
-              <tr><td>Courier Services></td><td> 200/=</td></tr>
-            </table>
+        
           </div>
     </div>
       </div>
