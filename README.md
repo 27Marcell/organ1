@@ -2,29 +2,6 @@
 <html>
   <head>
     <title>Jecshac Enterprises</title>
-    <style type="text/css">
-      .topnav{
-      display:inline-block;
-      float:right;
-      text-decoration: none;
-      margin:0;
-      padding: 0 0 2rem 0;
-      }
-      .container side{
-      display:block;
-      float:left;
-      width: 30%;
-      height: 100%;
-      background-color: aqua;
-      }
-      .container middle{
-      display: block;
-      float:center;
-      width:70%;
-      height:100%;
-      background-color:aqua;
-      }
-    </style>
   </head>
   <body>
     <div class="container">
@@ -32,7 +9,7 @@
         <h1> Jecshac Enterprises</h1>
         <div class="topnav">
           <ul>
-            <li><a href="#"> Home</a></li>
+            <li class="active"><a href="#"> Home</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Services</a></li>
             <li><a href="#">Products</a></li>
@@ -50,7 +27,7 @@
           <tr><td>Freight Forwarding</td><td>13,000/= + VAT</td><td>Easy Pay</td></tr>
           <tr><td>Courier Services></td><td> 200/=</td><td>Regional, International & Corporate</td></tr>
           <tr><td>Sales & Marketing></td><td> 4,500/=</td><td>Digital Marketing</td></tr>
-          <tr><td>Warehousing></td><td> 200/= per Sqft</td><td>Storage & Distribution</td></tr>
+          <tr><td>Warehousing></td><td> 200/= per Sqft/month</td><td>Storage & Distribution</td></tr>
          </table>
       </div>
       <div class="container middle">
@@ -62,10 +39,22 @@
           </p>
         </div>
         <div class= "services">
-          <div class="fa fa-home">
-            <h2>Our Services</h2>
-        
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <h1>Freight Forwarding</h1>
+                <img src=""alt="freight">
+              </div>
+              <div class="flip-card-back">
+                <h2></h2>
+                <p>We have a professional team of experts with over 2 decades worth of experience </p>
+                <p> We do local and international clearing and forwading of exports and imports</p>
+                <button type="button">Get Freight Services</button>
+              </div>
+            </div>
           </div>
+        
+         </div>
     </div>
       </div>
   </body>
